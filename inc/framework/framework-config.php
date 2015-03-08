@@ -1452,7 +1452,7 @@
                 );
 
                 // Set the help sidebar
-                $this->args['help_sidebar'] = __( '<a href="http://bagusa4.tk" target="_blank"><img style="margin: 0 10px;" src="http://bagusa4.tk/public/bagusa4logomini.png"></img></a><p style="text-align: center;"><b> :D . (: <a href="http://bagusa4.tk" target="_blank">Bagusa4</a> :) . :D</b></p>', 'redux-framework-b4theme' );
+                $this->args['help_sidebar'] = __( '<a href="http://bagusa4.tk" target="_blank"><img style="margin: 0 10px;" src="https://raw.githubusercontent.com/Bagusa4/bagusa4.github.io/master/bagusa4logomini.png"></img></a><p style="text-align: center;"><b> :D . (: <a href="http://bagusa4.tk" target="_blank">Bagusa4</a> :) . :D</b></p>', 'redux-framework-b4theme' );
             }
 
             /**
